@@ -25,7 +25,7 @@ Decisions about the use of GenAI in research projects should be clearly document
 #### Closing gaps in knowledge
 The widespread emergence of GenAI is disrupting many sectors, including the RSE community. As with any new technology, time to experiment and guidance on when and how to use it are critical for integrating GenAI successfully into the research enterprise. Closing knowledge gaps depends on professional development, mentorship, and the sharing of new ideas – areas often hobbled, rather than helped by GenAI. RSEs need tailored training, best practices, and institutional policies that reflect the realities of research software development, not just generic software engineering. The community must also invest in mentoring and knowledge exchange so junior RSEs build strong foundations and grow into future RSE team leaders.
 
-### Agility in a changing landscape
+#### Agility in a changing landscape
 The change of capabilities, expectations and understanding of GenAI has been rapid and development is likely to continue apace for the foreseeable future. As Research Software Engineers working at the forefront of research and technology, we recognise the need to adapt, adjust and develop as the situation changes. Agility sits at the heart of software engineering and Research Software Engineers are best placed to steer their position as things develop.
 
 #### Conclusion
