@@ -13,3 +13,8 @@ If you are interested in __signing [the finalized position statement](https://gi
 2. __Add your signature via a [pull request](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/pulls)__
 3. The signed position statement will be published <strong>by the end of January</strong> and distributed broadly
 </ol>
+
+## Not sure if you should sign?
+While this position statement specifically discusses the role Research Software Engineer, we know that many in our communities hold other titles (e.g. computational biologist, software developer, application developer, etc.). Also note: the position statement was developed with an international focus - RSEs across the globe are impacted by generative AI and we hope the statement speaks to RSEs everywhere. 
+
+_If the position statement rings true for your work role, we would love to see your signature!_
