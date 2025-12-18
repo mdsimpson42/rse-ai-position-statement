@@ -46,8 +46,6 @@ The work of Research Software Engineers is critical to the success of modern res
 
 Daniel S. Katz, University of Illinois Urbana-Champaign
 
-
-
-
+Anna Wilcox, University of California, Berkeley
 
 
