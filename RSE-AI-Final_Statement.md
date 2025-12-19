@@ -51,3 +51,5 @@ Anna Wilcox, University of California, Berkeley
 Joe Marsh Rossney, UK Centre for Ecology & Hydrology
 
 Brad Richardson, Amentum
+
+Bruce E. Wilson, retired
