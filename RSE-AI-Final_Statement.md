@@ -75,3 +75,5 @@ Andreas W. Goetz, University of California San Diego
 Jim Pivarski, University of Chicago
 
 Elle O'Brien, University of Michigan
+
+*The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
